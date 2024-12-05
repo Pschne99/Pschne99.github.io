@@ -5,8 +5,8 @@ My name is Paul Schneidewind Telge and I come from Peru, Lima. I moved to german
 I am also very intersested in particle phyiscs and mathematical descriptions of the fundamental forces of nature, such as gravity and Yang-Mills Theory. 
 
 ## Education
--BSc. in Physics, Ludwig-Maximilian-Universtät, 2022
+- BSc. in Physics, Ludwig-Maximilian-Universtät, 2022
 ## Files
--[CV](docs/CV.pdf)
+- [CV](docs/CV.pdf)
 ### Contact
 Paul.Schneidewind@campus.lmu.de
