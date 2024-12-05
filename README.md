@@ -7,7 +7,7 @@ I am also very intersested in particle phyiscs and mathematical descriptions of 
 ## Education
 - BSc. in Physics, Ludwig-Maximilian-Universtät, 2022
 
-## Files
+## Docs
 - [CV](docs/CV.pdf)
 
 ### Contact
