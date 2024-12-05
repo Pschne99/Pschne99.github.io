@@ -9,4 +9,4 @@ I am also very intersested in particle phyiscs and mathematical descriptions of 
 ## Files
 - [CV](docs/CV.pdf)
 ### Contact
-Paul.Schneidewind@campus.lmu.de
+- Paul.Schneidewind@campus.lmu.de
