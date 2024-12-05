@@ -1,4 +1,4 @@
-theme: midnight
+theme: jekyll-theme-midnight
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 title: Paul Schneidewind Telge
