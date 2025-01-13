@@ -9,7 +9,7 @@ I am also very intersested in particle phyiscs and mathematical descriptions of 
 
 ## Docs
 - [CV](docs/CV.pdf)
-- [Local Symmetry is a Lie!](docs/Local_Symmetry_is_a_Lie.pdf)
+- [Local Symmetry is a Lie!](docs/Local_Symmetry_is_a_Lie_.pdf)
 
 ### Contact
 - Paul.Schneidewind@campus.lmu.de
