@@ -13,4 +13,4 @@ I am also very intersested in particle phyiscs and mathematical descriptions of 
 - [Propagation and Scattering in a Holographic Quantum Field Theory](docs/MScThesis.pdf)
 
 ### Contact
-- Paul.Schneidewind@campus.lmu.de
+- pschne99@hotmail.com
