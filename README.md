@@ -1,6 +1,6 @@
 
 # About
-My name is Paul Schneidewind Telge and I come from Peru, Lima. I moved to germany to study physics and now I am finishing my masters degree at [Ludwig-Maximilian-Universität](https://www.lmu.de/de/). I am spending a lot of time at [the university observatory](https://www.usm.lmu.de/), where I am doing my thesis on the Holographic principle in QFT via overlapping degrees of freedom.
+My name is Paul Schneidewind Telge and I come from Peru, Lima. I moved to germany to study physics and now I have just finished my masters degree at [Ludwig-Maximilian-Universität](https://www.lmu.de/de/). I am spending a lot of time at [the university observatory](https://www.usm.lmu.de/), where I did my thesis on the Holographic principle in QFT via overlapping degrees of freedom.
 
 I am also very intersested in particle phyiscs and mathematical descriptions of the fundamental forces of nature, such as gravity and Yang-Mills Theory. 
 
@@ -10,7 +10,7 @@ I am also very intersested in particle phyiscs and mathematical descriptions of 
 ## Docs
 - [CV](docs/CV_Paul_Schneidewind_Telge.pdf)
 - [Local Symmetry is a Lie!](docs/Local_Symmetry_is_a_Lie_.pdf)
-- [Propaation and Scattering in a Holographic Quantum Field Theory](docs/MScThesis.pdf)
+- [Propagation and Scattering in a Holographic Quantum Field Theory](docs/MScThesis.pdf)
 
 ### Contact
 - Paul.Schneidewind@campus.lmu.de
