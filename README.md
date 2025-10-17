@@ -8,8 +8,9 @@ I am also very intersested in particle phyiscs and mathematical descriptions of 
 - BSc. in Physics, Ludwig-Maximilian-Universtät, 2022
 
 ## Docs
-- [CV](docs/CV.pdf)
+- [CV](docs/CV_Paul_Schneidewind_Telge.pdf)
 - [Local Symmetry is a Lie!](docs/Local_Symmetry_is_a_Lie_.pdf)
+- [Propaation and Scattering in a Holographic Quantum Field Theory](docs/MScThesis.pdf)
 
 ### Contact
 - Paul.Schneidewind@campus.lmu.de
